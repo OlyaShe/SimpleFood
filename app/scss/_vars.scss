@@ -1,0 +1,37 @@
+$orange-900:#FF6838;
+$dark:#31352B;
+$silver-100:#F9FAFF;
+$darkBlue-900:#363853;
+$white:#fff;
+$silver-200:#ececec;
+$gray:#c2c2c2;
+
+%rubik-300{
+  font-family: 'Rubik-Light', sans-serif;
+  font-weight: 300;
+}
+%rubik-400{
+  font-family: 'Rubik-Regular', sans-serif;
+  font-weight: 400;
+}
+
+%rubik-500{
+  font-family: 'Rubik-Medium', sans-serif;
+  font-weight: 500;
+}
+
+%rubik-italic{
+  font-family: 'Rubik-Italic', sans-serif;
+  font-weight: 400;
+}
+
+%btn{
+  font-size: 14px;
+  line-height: 130%;
+  background-color: $orange-900;
+  border-radius: 5px;
+  border: transparent;
+  color: #fff;
+  width: 101px;
+  height: 32px;
+}
